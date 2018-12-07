@@ -1,0 +1,13 @@
+title: About RGB Color Wallpaper
+
+remote_theme: AurelitecSites/micrabout
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      show_title: true
+      sized_quote: false
